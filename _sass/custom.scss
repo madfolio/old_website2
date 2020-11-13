@@ -37,6 +37,12 @@ background-color: var(--theme)
 
 ///end
 
+
+.text-highlight {
+	color: var(--accent);
+}
+
+
 .site-footer, .site-header, .site-title, .site-title:visited, .page-link, .page-link:visited {
 	color: var(--white);
 	font-family: 'Syne Mono', monospace;
