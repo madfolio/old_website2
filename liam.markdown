@@ -15,7 +15,7 @@ tags: [ First Tag, Second Tag,    Third Tag ]
   <body>
     <H1>Index</h1>
 This is just a whole bunch of links so I can stay organised. 
-<a href="sandbox">Sandbox</a>
+<a href="./sandbox">Sandbox</a>
 
 </body>
 </html>
