@@ -1,0 +1,64 @@
+:root {
+  --theme: #2C363F;
+  --white: #fffcff;
+  --accent: #ca054d;
+
+/// https://coolors.co/generate
+///  --theme: #353531;
+///  --white: #f0eff4;
+///  --accent: #ec4e20;
+}
+
+body {
+	background-color: var(--white);
+	background-image: url("/assets/ideators_background.png");
+        background-repeat: no-repeat;
+	background-size:50%;
+	font-family: 'Roboto', sans-serif;
+}
+
+///mobile set up
+nav.site-nav {
+background-color: var(--theme)
+}
+
+.site-title::before {
+  content: url("/assets/ideators_tiny.png");
+  display: inline-block;
+  position: relative;
+  width: 37px;
+  top: 5px;
+}
+
+.svg {
+    fill: var(--white);
+}
+
+
+///end
+
+.site-footer, .site-header, .site-title, .site-title:visited, .page-link, .page-link:visited {
+	color: var(--white);
+	font-family: 'Syne Mono', monospace;
+        background-color: var(--theme);
+}
+
+.rss-subscribe, a.post-link, .post-list-heading, .post-meta {
+        font-family: 'Syne Mono', monospace;
+        color: var(--theme);        
+}
+
+a, a:visited, .username {
+  color: var(--accent);
+  }
+
+.u-email:hover, .username:hover {
+  color: var(--white); 
+  }
+
+h1 {
+	font-family: 'Syne Mono', monospace;
+    	font-size: 22px;
+    	color: var(--theme);
+	text-align: center;
+}
