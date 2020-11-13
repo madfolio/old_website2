@@ -7,4 +7,4 @@ layout: home
 
 Creating value through design thinking. We know that to create value there has to be a laser focus on the end user of our products. We have worked with a number of small companies on their strategy and growth development. These have included film production companies, biotech, marine survey and others.
 
-Testing CSS variable in a span. 
+Testing CSS class in a span. 
