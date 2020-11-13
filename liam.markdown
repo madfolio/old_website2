@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /sandbox/
+permalink: /liam/
 exclude: true
 heading: I like cupcakes
 show_heading: true
