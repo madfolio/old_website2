@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "What is design thinking?"
 date:   2020-11-12 11:26:32 +0100
 categories: jekyll update
 ---
