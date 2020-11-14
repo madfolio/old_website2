@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Using blockchain for marine seismic contract control and data integrity"
 date:   2020-11-12 11:26:32 +0100
 categories: jekyll update
 ---
