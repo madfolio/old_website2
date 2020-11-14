@@ -2,7 +2,7 @@
 layout: post
 title:  "Comments Test"
 date:   2020-11-12 11:26:32 +0100
-comment_issue_id: 2
+comments: true
 categories: jekyll update
 ---
 
