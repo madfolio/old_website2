@@ -19,7 +19,9 @@ This is just a whole bunch of links so I can stay organised.
     
    <H1>Guides</h1>
     <a href="https://www.markdownguide.org/basic-syntax/">Markdown guide</a>
-    
+   
+   <H1>On The Web</h1>
+   <a href="https://medium.com/@ideators.no">Ideators on Medium</a>
     
    <h1>To Do List</h1>
    <h2>CSS Splat</h2>
