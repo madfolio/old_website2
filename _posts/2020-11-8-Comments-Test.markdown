@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Comments Test"
 date:   2020-11-12 11:26:32 +0100
-comments_id: 1
+comment_issue_id: 2
 categories: jekyll update
 ---
 
