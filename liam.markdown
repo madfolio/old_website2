@@ -27,6 +27,14 @@ This is just a whole bunch of links so I can stay organised.
    <h2>CSS Splat</h2>
    Check out this splat in CSS and SVG. It would be good if every colour on the site can be controlled with the three theme colours. 
    https://codepen.io/nevmac/pen/LVbMNV
+   
+   Or this
+   
+   https://svgsilh.com/673ab7/image/2174689.html
+   
+   # Sidebar
+   Add a side bar to Jekyll:
+   https://mmistakes.github.io/minimal-mistakes/layout-sidebar-nav-list/
 
 </body>
 </html>
