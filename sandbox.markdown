@@ -57,12 +57,16 @@ tags: [ First Tag, Second Tag,    Third Tag ]
 	{% endraw %}
 	{% endhighlight %}
 		This should grab the tags from the page but it is likely not wokring becasue there are no tags on this page and it is not a post.  
-    <h1>Stuff that doesn't work</h1>
+   	{% highlight liquid %}
+	{% raw %}
 <h2>{{ site.data.samplelist.docs_list_title }}</h2>
 <ul>
    {% for item in site.data.samplelist.docs %}
       <li><a href="{{ item.url }}">{{ item.title }}</a></li>
    {% endfor %}
 	  </ul>
+	  	{% endraw %}
+	{% endhighlight %}
+	  This should make a list of entries in the site. See https://jekyllrb.com/tutorials/navigation/
   </body>
 </html>
