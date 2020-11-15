@@ -6,6 +6,13 @@ date:   2020-11-12 11:26:32 +0100
 categories: jekyll update
 tags: leadership
 ---
+
+<ul>
+  {% for tags in page.tags %}
+    <li>{{ tags }}</li>
+  {% endfor %}
+</ul>
+
 # Definitions
 
 To open this essay it is necessary to discuss some definitions these are discussed further in another essay. The first is digital and the associated concepts of digitization, digitalization and digital transformation. Digitization is the simple the process of converting something from analogue to digital. Digitalization is the process of interacting with this new content. Finally digital transformation is the strategic realization and leveraging of the interactivity with digital content. This essay will use the third definition, digital transformation as a focus.
