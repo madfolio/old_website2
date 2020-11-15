@@ -5,18 +5,10 @@ title:  "The Death Of Leadership"
 date:   2020-11-12 11:26:32 +0100
 categories: jekyll update
 tags: "leadership"
-
 ---
 
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <title></title>
-  </head>
-  <body>
-    <h1>Additional stuff: {{ post.date }}</h1>
-  </body>
-  </html>
+# Extras
+
   
 # Definitions
 
