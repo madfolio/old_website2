@@ -74,5 +74,15 @@ tags: [ First Tag, Second Tag,    Third Tag ]
       <li><a href="{{ item.url }}">{{ item.title }}</a></li>
    {% endfor %}
 	  </ul>
+	  
+	  <ul>
+{% for member in site.data.members %}
+  <li>
+    <a href="https://github.com/{{ member.github }}">
+      {{ member.name }}
+    </a>
+  </li>
+{% endfor %}
+</ul>
   </body>
 </html>
