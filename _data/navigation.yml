@@ -1,0 +1,8 @@
+- link: /
+  name: Home
+- link: /about/
+  name: About
+- link: /sandbox
+  name: Sandbox
+- link: /contact/
+  name: Contact Us
