@@ -7,7 +7,7 @@ categories: jekyll update
 tags: leadership
 ---
 
-post.tags
+{{post.tags}}
 
 # Definitions
 
