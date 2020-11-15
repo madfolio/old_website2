@@ -16,9 +16,7 @@ tags:
       {%- if page.author -%}
         • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author }}</span></span>
       {%- endif -%}
-        {% if page.tags.size > 0 %}
-       • Tag{% if page.tags.size > 1 %}s{% endif %}:
-        {{ page.tags | sort | join: ", " }}
+        • {{ page.tags | sort | join: ", " }}
       {% endif %}
     </p>
   
