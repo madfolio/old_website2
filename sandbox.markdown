@@ -74,8 +74,10 @@ tags: [ First Tag, Second Tag,    Third Tag ]
       <li><a href="{{ item.url }}">{{ item.title }}</a></li>
    {% endfor %}
 	  </ul>
-	  
-	  <ul>
+
+
+This should make a list of entries in the site. See  https://jekyllrb.com/docs/datafiles/
+<ul>
 {% for member in site.data.members %}
   <li>
     <a href="https://github.com/{{ member.github }}">
