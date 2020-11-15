@@ -7,7 +7,7 @@ categories: jekyll update
 tags: "leadership"
 ---
 
-# Extras
+# Extras {{post.title}}
 
   
 # Definitions
