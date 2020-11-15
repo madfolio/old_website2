@@ -6,13 +6,6 @@ date:   2020-11-12 11:26:32 +0100
 categories: jekyll update
 tags: [leadership, digital transformation]
 ---
-
-{% if page.tags.size > 0 %}
-  Tag{% if page.tags.size > 1 %}s{% endif %}:
-  {{ page.tags | sort | join: ", " }}
-{% endif %}
-
-
   
 # Definitions
 
