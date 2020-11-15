@@ -8,7 +8,7 @@ tags: "leadership"
 
 ---
 
-{{ post.tags }}
+{{ post.date }}
 
 # Definitions
 
