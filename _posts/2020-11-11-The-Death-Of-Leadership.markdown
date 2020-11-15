@@ -7,7 +7,10 @@ categories: jekyll update
 tags: [leadership, digital transformation]
 ---
 
-Tags: {{page.tags}}
+{% if page.tags.size > 0 %}
+  Tag{% if page.tags.size > 1 %}s{% endif %}:
+  {{ page.tags | sort | join: ", " }}
+{% endif %}
 
 
   
