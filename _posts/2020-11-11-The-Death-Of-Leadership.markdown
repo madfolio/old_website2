@@ -6,12 +6,10 @@ date:   2020-11-12 11:26:32 +0100
 categories: jekyll update
 tags: leadership
 ---
+{% for tags in post.tags %}
+<li>{{ tags }}</li>
+{% endfor %}
 
-<ul>
-  {% for tags in page.tags %}
-    <li>{{ tags }}</li>
-  {% endfor %}
-</ul>
 
 # Definitions
 
