@@ -4,6 +4,7 @@ comments: false
 title:  "The Death Of Leadership"
 date:   2020-11-12 11:26:32 +0100
 categories: jekyll update
+tags: leadership
 ---
 # Definitions
 
