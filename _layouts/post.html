@@ -1,6 +1,8 @@
 ---
 layout: default
 comments: false
+author: Liam Flood
+tags:
 ---
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
@@ -14,6 +16,10 @@ comments: false
       {%- if page.author -%}
         • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author }}</span></span>
       {%- endif -%}</p>
+      {% if page.tags.size > 0 %}
+        Tag{% if page.tags.size > 1 %}s{% endif %}:
+        {{ page.tags | sort | join: ", " }}
+      {% endif %}
   </header>
 
   <div class="post-content e-content" itemprop="articleBody">
