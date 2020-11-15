@@ -4,7 +4,6 @@ comments: false
 title:  "Welcome to Jekyll!"
 date:   2020-11-12 11:26:32 +0100
 categories: jekyll update
-tags: tag1 tag2
 ---
 
 tag testing, not working
@@ -33,12 +32,3 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
 
-{% post.tags.size %}
-{% post.tags %}
-
-
-
-{% if post.tags.size > 0 %}
-  Tag{% if post.tags.size > 1 %}s{% endif %}:
-  {{ post.tags | sort | join: ", " }}
-{% endif %}
