@@ -68,5 +68,11 @@ tags: [ First Tag, Second Tag,    Third Tag ]
 	  	{% endraw %}
 	{% endhighlight %}
 	  This should make a list of entries in the site. See https://jekyllrb.com/tutorials/navigation/
+	<h2>{{ site.data.samplelist.docs_list_title }}</h2>
+<ul>
+   {% for item in site.data.samplelist.docs %}
+      <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+   {% endfor %}
+	  </ul>
   </body>
 </html>
