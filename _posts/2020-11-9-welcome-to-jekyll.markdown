@@ -6,7 +6,7 @@ date:   2020-11-12 11:26:32 +0100
 categories: jekyll update
 tags: tag1 tag2
 ---
-tag testing
+tag testing, not working
 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
@@ -31,6 +31,10 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
+
+{% post.tags.size %}
+{% post.tags %}
+
 
 
 {% if post.tags.size > 0 %}
