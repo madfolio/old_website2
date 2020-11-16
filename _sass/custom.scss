@@ -2,6 +2,8 @@
   --theme: #0C090D;
   --white: #EBF5DF;
   --accent: #E53D00;
+  --base_font: 'Roboto', sans-serif;
+  --accent_font: 'Syne Mono', monospace;
 
 /// https://coolors.co/generate
 ///  --theme: #353531;
@@ -11,7 +13,7 @@
 
 body {
 	background-color: var(--white);
-	font-family: 'Roboto', sans-serif;
+	font-family: var(--base_font);
 }
 
 ///mobile set up
@@ -35,12 +37,12 @@ background-color: var(--theme)
 
 .site-footer, .site-header, .site-title, .site-title:visited, .page-link, .page-link:visited {
 	color: var(--white);
-	font-family: 'Syne Mono', monospace;
+	font-family: var(--accent_font);
         background-color: var(--theme);
 }
 
 .rss-subscribe, a.post-link, .post-list-heading, .post-meta {
-        font-family: 'Syne Mono', monospace;
+        font-family: var(--accent_font);
         color: var(--theme);        
 }
 
@@ -54,7 +56,7 @@ a, a:visited, .username {
 
 
 h1 {
-	font-family: 'Syne Mono', monospace;
+	font-family: var(--accent_font);
     	font-size: 22px;
     	color: var(--theme);
 	text-align: center;
