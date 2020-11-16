@@ -11,8 +11,8 @@
 
 body {
 	background-color: var(--white);
-	background-image: url("https://svgsilh.com/svg/303394.svg");
-	///background-image: url("/assets/ideators_background.png");
+	///background-image: url("https://svgsilh.com/svg/303394.svg");
+	background-image: url("/assets/ideators_background.png");
         background-repeat: no-repeat;
 	background-size:50%;
 	font-family: 'Roboto', sans-serif;
@@ -68,4 +68,14 @@ h1 {
     	font-size: 22px;
     	color: var(--theme);
 	text-align: center;
+}
+
+///svg test
+
+svg {
+    position: absolute;
+    left: 0;
+    top: 0;
+    z-index: -1;
+    fill: var(--theme); 
 }
