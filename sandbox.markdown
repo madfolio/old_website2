@@ -93,7 +93,7 @@ This should make a list of entries in the site. See  https://jekyllrb.com/docs/d
 
 
 
-
+{{site.tags}}
 
 
 	
