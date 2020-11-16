@@ -48,14 +48,14 @@ background-color: var(--theme)
         background-color: var(--theme);
 }
 
-///
+/// accent font and colour
 .rss-subscribe, a.post-link, .post-list-heading, .post-meta {
         font-family: var(--accent_font);
         color: var(--accent);        
 }
 
 ///accent links
-.username {
+a, .u-email, .username {
   color: var(--accent);
   }
 
