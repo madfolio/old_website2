@@ -21,7 +21,6 @@
 
 body {
 	background-color: var(--white);
-	font-family: var(--base_font);
 }
 
 ///mobile set up
@@ -32,18 +31,38 @@ background-color: var(--theme)
 
 
 .text-highlight {
-	color: var(--accent);
+    color: var(--accent);
+}
+
+a:hover {
+    color: var(--theme);
 }
 
 
-.site-footer, .site-header, .site-title:link, .site-title:visited,.site-title:hover,.site-title:active, .page-link:link, .page-link:visited, .page-link:hover, page-link:active,:page-link:link  {
-	color: var(--white);
+
+.post-link {
+	color: var(--accent);
+	font-family: var(--accent_font);
+}
+
+
+.site-footer, .site-header {
+	background-color: var(--theme);
+    }
+
+a:hover {
+  text-decoration: none;
+}
+
+
+.site-title, .trigger, .site-nav, .page-link {
+	color: var(--white) !important;
 	font-family: var(--accent_font);
         background-color: var(--theme);
 	text-decoration: none;
 }
 
-.rss-subscribe, a.post-link, .post-list-heading, .post-meta {
+.rss-subscribe, .post-list-heading, .post-meta {
         font-family: var(--accent_font);
         color: var(--theme);        
 }
@@ -55,6 +74,10 @@ a, a:visited, .username {
 .u-email:hover, .username:hover {
   color: var(--white); 
   }
+
+.site-footer {
+ font-family: var(--accent_font);
+}
 
 h1 {
 	font-family: var(--accent_font);
