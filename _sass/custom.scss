@@ -28,12 +28,6 @@ nav.site-nav {
 background-color: var(--theme)
 }
 
-
-.svg {
-    fill: var(--white);
-}
-
-
 ///end
 
 
@@ -42,21 +36,24 @@ background-color: var(--theme)
 }
 
 
-.site-nav, .page-link, .site-footer, .site-header, .site-title, .site-title:visited, .page-link, .page-link:visited {
+.site-nav, .page-link, .site-footer, .site-header, .site-title {
 	color: var(--white);
 	font-family: var(--accent_font);
         background-color: var(--theme);
 }
 
+///
 .rss-subscribe, a.post-link, .post-list-heading, .post-meta {
         font-family: var(--accent_font);
-        color: var(--theme);        
+        color: var(--accent);        
 }
 
-a, a:visited, .username {
+///accent links
+a, .username {
   color: var(--accent);
   }
 
+///hover and turn white
 .u-email:hover, .username:hover {
   color: var(--white); 
   }
