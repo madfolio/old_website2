@@ -72,10 +72,12 @@ h1 {
 
 ///svg test
 
-svg {
-    position: absolute;
-    left: 0;
-    top: 0;
-    z-index: -1;
-    fill: var(--theme); 
+.sprite { 
+  width: 50%; 
+  height: 50%;
+  position: absolute;
+  left: 0;
+  top: 0;
+  z-index: -1;
+  fill: var(--theme);
 }
