@@ -3,6 +3,7 @@ layout: post
 comments: false
 title:  "Using blockchain for marine seismic contract control and data integrity"
 date:   2020-11-12 11:26:32 +0100
+tags: marine blockchain seismic
 categories: jekyll update
 ---
 # Introduction
