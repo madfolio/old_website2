@@ -73,11 +73,8 @@ h1 {
 ///svg test
 
 .sprite { 
-  width: 100%; 
-  height: 100%;
-  position: absolute;
-  left: 0;
-  top: 0;
+  max-width: 100%;
+  height: auto;
   z-index: -1;
   fill: var(--accent);
 }
