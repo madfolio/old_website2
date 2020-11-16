@@ -2,32 +2,31 @@
   --theme: #2C363F;
   --white: #fffcff;
   --accent: #ca054d;
+  --base_font: 'Roboto', sans-serif;
+  --accent_font: 'Gloria Hallelujah', cursive;
 
-/// https://coolors.co/generate
+
+/// Original Colours - https://coolors.co/generate
 ///  --theme: #353531;
 ///  --white: #f0eff4;
 ///  --accent: #ec4e20;
+	
+
+/// Font options - https://fonts.google.com/
+/// 'Permanent Marker', cursive;
+/// 'Gloria Hallelujah', cursive;
+/// 'Roboto', sans-serif;
+/// 'Syne Mono', monospace;
 }
 
 body {
 	background-color: var(--white);
-	background-image: url("/assets/ideators_background.png");
-        background-repeat: no-repeat;
-	background-size:50%;
-	font-family: 'Roboto', sans-serif;
+	font-family: var(--base_font);
 }
 
 ///mobile set up
 nav.site-nav {
 background-color: var(--theme)
-}
-
-.site-title::before {
-  content: url("/assets/ideators_tiny.png");
-  display: inline-block;
-  position: relative;
-  width: 37px;
-  top: 5px;
 }
 
 .svg {
@@ -45,12 +44,12 @@ background-color: var(--theme)
 
 .site-footer, .site-header, .site-title, .site-title:visited, .page-link, .page-link:visited {
 	color: var(--white);
-	font-family: 'Syne Mono', monospace;
+	font-family: var(--base_font;
         background-color: var(--theme);
 }
 
 .rss-subscribe, a.post-link, .post-list-heading, .post-meta {
-        font-family: 'Syne Mono', monospace;
+        font-family: var(--accent_font);
         color: var(--theme);        
 }
 
@@ -63,8 +62,20 @@ a, a:visited, .username {
   }
 
 h1 {
-	font-family: 'Syne Mono', monospace;
+	font-family: var(-accent_font);
     	font-size: 22px;
     	color: var(--theme);
 	text-align: center;
+}
+
+
+.sprite { 
+position: absolute;
+left: 0;
+top: 0;
+height: 100%;
+width: 20%;
+z-index: -1;
+fill: var(--accent);
+transform: rotate(180deg);	
 }
