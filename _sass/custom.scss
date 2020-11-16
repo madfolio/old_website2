@@ -36,22 +36,22 @@ background-color: var(--theme)
 }
 
 
-.site-footer .site-header .site-title .site-title:visited .page-link .page-link:visited {
+.site-footer, .site-header, .site-title, .site-title:visited, .page-link, .page-link:visited {
 	color: var(--white);
 	font-family: var(--base_font);
         background-color: var(--theme);
 }
 
-.rss-subscribe a.post-link .post-list-heading .post-meta {
+.rss-subscribe, a.post-link, .post-list-heading, .post-meta {
         font-family: var(--accent_font);
         color: var(--theme);        
 }
 
-a a:visited .username {
+a, a:visited, .username {
   color: var(--accent);
   }
 
-.u-email:hover .username:hover {
+.u-email:hover, .username:hover {
   color: var(--white); 
   }
 
