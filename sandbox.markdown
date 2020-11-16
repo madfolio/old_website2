@@ -88,6 +88,18 @@ This should make a list of entries in the site. See  https://jekyllrb.com/docs/d
   </li>
 {% endfor %}
 </ul>
+
+
+
+
+<svg version="1.1" baseProfile="full" xmlns="https://svgsilh.com/svg" style="display:none;">
+    <defs>
+        <g id="303394">
+            <rect width="100%" height="100%" />
+        </g>
+    </defs>
+</svg>
+
   </body>
 </html>
 
