@@ -63,9 +63,6 @@ a, a:visited, .username {
   color: var(--white); 
   }
 
-.post-content {
-  background-color: var(--white);
-   }
 
 h1 {
 	font-family: 'Syne Mono', monospace;
@@ -80,8 +77,8 @@ h1 {
   position: absolute;
   left: 0;
   top: 0;
-  height: 200%;
-  width: 200%;	  
+  height: 100%;
+  width: 100%;	  
   z-index: -1;
   fill: var(--accent);
 }
