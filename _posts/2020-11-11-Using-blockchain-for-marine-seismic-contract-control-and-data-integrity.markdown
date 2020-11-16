@@ -4,7 +4,6 @@ comments: false
 title:  "Using blockchain for marine seismic contract control and data integrity"
 date:   2020-11-12 11:26:32 +0100
 tags: marine blockchain seismic
-categories: jekyll update
 ---
 # Introduction
 Marine seismic acquisition collects data which are then used by their clients, offshore oil and gas producers, to assess the location and volume of hydrocarbon reserves in the subsurface. The relationship with the client is generally transactional and of a limited period of 3-12 months. The clients are numerous but maintain control of the procurement process through tenders leading to intense price competition. The contracts are relatively simple and based on a limited number of models; the one used in this paper will be a “dollars per shot” model. Others can be more complex but could still fit the methods described below. The model selected activates every time a seismic shot is fired in a specific location within certain parameters. The seismic survey operator can then charge the client a dollar rate per shot once the shot is approved. The costs are aggregated over a month and invoiced; generally on 30 day payment terms. 
