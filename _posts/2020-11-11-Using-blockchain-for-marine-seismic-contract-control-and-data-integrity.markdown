@@ -1,5 +1,6 @@
 ---
 layout: post
+author: Liam Flood
 comments: false
 title:  "Using blockchain for marine seismic contract control and data integrity"
 date:   2020-11-12 11:26:32 +0100
