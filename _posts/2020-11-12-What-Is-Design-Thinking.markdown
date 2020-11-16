@@ -3,7 +3,7 @@ layout: post
 comments: false
 title:  "What is design thinking?"
 date:   2020-11-12 11:26:32 +0100
-categories: jekyll update
+tags: [design-thinking]
 ---
 I like to explain the process of the design thinking by re-telling the first encounter I had with it.
 
