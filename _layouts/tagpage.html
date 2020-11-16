@@ -12,3 +12,9 @@ layout: default
 </ul>
 </div>
 <hr>
+
+
+{% for tag in site.tags %}
+        {% capture tag_name %}{{ tag }}{% endcapture %}
+        <a href="/tag/{{ tag_name }}" style="text-decoration:none"><code"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
+{% endfor %}
