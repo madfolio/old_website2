@@ -30,12 +30,17 @@ background-color: var(--theme)
 
 ///end
 
-
+/// text highlight
 .text-highlight {
 	color: var(--accent);
 }
 
 
+/// text theme
+.post-list-heading, .rss-subscribe {
+	color: var(--theme);
+
+/// text and 
 .site-nav, .page-link, .site-footer, .site-header, .site-title {
 	color: var(--white);
 	font-family: var(--accent_font);
@@ -49,7 +54,7 @@ background-color: var(--theme)
 }
 
 ///accent links
-a, .username {
+.username {
   color: var(--accent);
   }
 
