@@ -41,11 +41,11 @@ This is consistent, however, with observations from across industry. As the worl
 
 Holmes and Smart[^f7] examine this perspective and they find three key areas that define the success of a cooperation: 
 
-* associations between previous experience of corporate–NPO engagements, the ﬁrm’s stakeholder focus and the resulting innovation
+* associations between previous experience of corporate–NPO engagements, the ﬁrm’s stakeholder focus and the resulting innovation.
 
-* the function of engagement scope and scope development in shaping innovation outcomes
+* the function of engagement scope and scope development in shaping innovation outcomes.
 
-* the role of the main corporate boundary spanner
+* the role of the main corporate boundary spanner. 
 
 
 ## Implications
@@ -61,73 +61,36 @@ With the specific process this may be more suited to shorter term projects or pa
 This lead to a 2 by 2 grid that can show strategies for how to operate in each of therse scenarios:
 
 |            |   Emergent |  Specifc | 
-| |||
-| Strong Links	 |    Partners working closely and fluidly at multiple levels.  |   |
-| Weak Links	 |     |  "Normal" project management  |
+| Strong Links	 |    Partners working closely and fluidly at multiple levels.  | Partners working on a number of projects simultaneously. |
+| Weak Links	 |  Partners working loosely, lacking formal cooperation.     |  "Normal" project management.  |
 
 
-Specific projects with strong links may lead to creep
-A strong project lead will need to be in place. 
+Specific projects with strong links may lead to creep and overlap between the projects. A strong project lead will need to be in place. 
 
-Weak links with emergent may lead to innovation being lost. 
-In this case a strong facilitator is needed that can document the processes on both sides. 
+Weak links with emergent may lead to innovation being lost. In this case a strong facilitator is needed that can document the processes on both sides. 
 
-## Actions
+## 
 
-Identify what mode the partner organisations are in using the table above and whether this is appropriate. 
+## Actions For Non Profit Ecosystem Development
+With these in mind it is clear that the ability to develop an eocsystem for a non profit organsation has the similiar advantages and  challenges as in business. The main difference is cultural differences between the players in the ecosystem. 
 
-Map functions where expertise is needed. 
+From this some recommendations can be made about how to establish an ecosystem aronud a non-profit:
 
-Make sure there is a budget for time money and space to innovate. 
+* Identify what mode the partner organisations are in using the table above and whether this is appropriate. 
 
-Set the ethos internally by asking for feedback and allowing others to fail. 
+* Map functions where expertise is needed. 
 
-Work on the long term stuff. 
+* Make sure there is a budget for time money and space to innovate. 
+
+* Set the ethos internally by asking for feedback and allowing others to fail. 
+
+* Work on the long term stuff. 
 
 ## Conclusion
 
 There are major similarities between the normal cirporate environment and the non-profit sector. The same trends apply and similar methods can be used. 
 . 
 
-## Temp
-https://www.econstor.eu/bitstream/10419/176803/1/GLO-DP-0195.pdf
-
-impact of aid:
-https://onlinelibrary.wiley.com/doi/pdf/10.1111/obes.12012
-https://www.fmreview.org/economies/schillings
-https://www.econstor.eu/bitstream/10419/176803/1/GLO-DP-0195.pdf
-
-
-
-Start up general model:
-1 market oportunity
-2 business model
-3 business evolution and growth
-
-main problem is that non profit jumps step 2
-
-
-Rounabout play pump
-https://www.theguardian.com/commentisfree/2009/nov/24/africa-charity-water-pumps-roundabouts
-
-High donar focus without focus on the end user. 
-
-The funding models used mean that the roadmap is set out without room for pivots. 
-
-Vanity metrics used. 
-
-
-
-
-Kiron Open higher education
-
-Laloux
-https://www.reinventingorganizations.com/
-
-Peter Green, agile for all
-https://agileforall.com/
-
-For exmaple 5-10% of resources available in the conservation non profit space. 
 
 
 ## Notes 
@@ -139,3 +102,19 @@ For exmaple 5-10% of resources available in the conservation non profit space.
 [^f6]: UNCHR - [Refugees bear cost of massive underfunding](https://www.unhcr.org/news/briefing/2018/10/5bbc57d94/refugees-bear-cost-massive-underfunding.html)
 [^f7]: [Exploring open innovation practice in ﬁrm-nonproﬁt engagements:a corporate social responsibility perspective](https://www.academia.edu/22387365/Exploring_open_innovation_practice_in_firm_nonprofit_engagements_a_corporate_social_responsibility_perspective)
 [^f8]: Mintzberg - [Of Strategies Emergent And Deliberate](http://strategy.sjsu.edu/www.stable/B290/reading/Mintzberg,%20H,%201985,%20Strategic%20Management%20Journal.%206%20pp%20257-272.pdf)
+
+## Additional Resources
+### General
+https://www.econstor.eu/bitstream/10419/176803/1/GLO-DP-0195.pdf
+https://www.reinventingorganizations.com
+https://agileforall.com/
+
+### Impact of aid:
+https://onlinelibrary.wiley.com/doi/pdf/10.1111/obes.12012
+https://www.fmreview.org/economies/schillings
+https://www.econstor.eu/bitstream/10419/176803/1/GLO-DP-0195.pdf
+
+### Innovation Failure - Runabout Play Pump
+https://www.theguardian.com/commentisfree/2009/nov/24/africa-charity-water-pumps-roundabouts
+
+
