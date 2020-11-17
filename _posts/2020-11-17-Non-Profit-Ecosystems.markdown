@@ -109,6 +109,8 @@ Work on the long term stuff.
 There are major similarities between the normal cirporate environment and the non-profit sector. The same trends apply and similar methods can be used. 
 . 
 
+## Temp
+https://www.econstor.eu/bitstream/10419/176803/1/GLO-DP-0195.pdf
 
 
 ## Notes 
