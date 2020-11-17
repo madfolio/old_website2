@@ -31,13 +31,13 @@ These are common problems and not unique to a non-profit[^f5]. But there are two
 
 ## Stakeholders
 
-## The Non-Profit Perspective
+### The Non-Profit Perspective
 
 There is always need to do more with less. Specifcally for aid to refugee the UNHCR reports that there was a funding gap in 2018 of 45% and this is likely to increase as "donor funding falls increasingly behind as the number of forcibly displaced worldwide has grown"[^f6]. As referenced by Nesta this creates a number of issues within the organsation as parts of the organisation seek to protect their own resources and focus heavily on operations at the expense of forward thinking.
 
 This is consistent, however, with observations from across industry. As the world bcomes more complex there is a need for more and more specialists. There becomes a point when it is impossible for organisition to have all that specialism in house and it has to be oursourced in some way. Open innovation is one way of outsourcing. 
 
-## The Partner Perspective
+### The Partner Perspective
 
 Holmes and Smart[^f7] examine this perspective and they find three key areas that define the success of a cooperation: 
 
