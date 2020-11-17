@@ -6,6 +6,9 @@ heading: SurplusMap
 show_heading: true
 ---
 
+![SurplusMap](https://img1.wsimg.com/isteam/ip/4c9a9166-12f7-4c3e-8169-8d27fb3d29af/Screenshot%202020-10-16%20at%2019.01.17.png/:/rs=h:342/qt=q:95)
+
+
 Relationship: Co-Founder
 
 Website: surplusmap.com
