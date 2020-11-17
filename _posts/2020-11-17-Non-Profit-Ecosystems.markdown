@@ -112,6 +112,23 @@ Sustainability is key and helping to grow their own markets.
 
 
 
+Need to be working on the long term projects. What are they building for the future? Set a vision. 
+
+Be proactive rather than reactive. 
+
+A way to do this is to leverage the ecosystem to keep up and stay relevant. 
+
+Is there freedom to fail and is there empowerment to try something new and what happens if it doesnt work?
+
+Is there more process orientation, ie this is my role and I dont want to step on other peoples toes. 
+
+Is there a formal way to innovate? Creating an ecosytem environment can be the way to do this. But it needs to be not just at the high level it needs to be integrated with links. 
+
+Is there a budget for time, money and space to innovate. 
+
+
+Nice example from https://youtu.be/psNQF7iWQ1M where they say that unless the ecpsystem gets together there wont be neoigh resources to get to where they want to be. 
+
 
 ## Notes 
 [^f1]: Chesbrough, Henry & Vanhaverbeke, Wim & West, Joel. (2008). [Open Innovation: Researching A New Paradigm](https://www.researchgate.net/publication/232957368_Open_Innovation_Researching_A_New_Paradigm)
