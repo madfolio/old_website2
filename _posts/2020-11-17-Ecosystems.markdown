@@ -37,5 +37,4 @@ Nesta[^f2] points to a number of areas that are more unique ot the non-profit bu
 
 ## Notes 
 [^f1]: Chesbrough, Henry & Vanhaverbeke, Wim & West, Joel. (2008). [Open Innovation: Researching A New Paradigm](https://www.researchgate.net/publication/232957368_Open_Innovation_Researching_A_New_Paradigm)
-
-[^f2] [The Open Innovation Programme](https://www.nesta.org.uk/report/the-open-innovation-programme-blog-series/)
+[^f2]: Nesta - [The Open Innovation Programme](https://www.nesta.org.uk/report/the-open-innovation-programme-blog-series/)
