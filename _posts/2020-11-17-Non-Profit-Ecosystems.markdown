@@ -50,9 +50,26 @@ Holmes and Smart[^f3] examine this perspective and they find three key areas tha
 
 * the role of the main corporate boundary spanner
 
+
+
 ## Implications
+
+Because this is written through the lens of how should a non-profit operate the implications are focused there. 
+
+Holmes and Smart[^f3] idenify two approached to innovation from the partners. They observed and emergent process and a more predetermined search with a specific focus in mind. 
+
+For the emergent process, similar to emergent strategy as defined by Mintzberg [^f4], 
+
+With the specific process this may be more suited to shorter term projects or partners with a specific skill to contribute. 
+
+
+Two generic approaches to open innovation were witnessed: ﬁrstly, a more exploratory approach to dyadic engagement activities that resulted in an emergent innovation process; and secondly, a focused and pre-determined search activity to exploit the resources of the nonproﬁt partner that demonstrated a more planned innovation process. 
+
+Two distinct boundary-spanning roles were identiﬁed: in dyads exhibiting few organizational linkages, the role was associated with formal responsibilities from senior management to ‘manage’ innovation opportunities and outcomes. In dyads exhibiting high linkages, there was no such formality; the role was a ‘conduit’ to facilitate search and exploration to locate opportunities for innovation through idea exchange.
+
 
 ## Notes 
 [^f1]: Chesbrough, Henry & Vanhaverbeke, Wim & West, Joel. (2008). [Open Innovation: Researching A New Paradigm](https://www.researchgate.net/publication/232957368_Open_Innovation_Researching_A_New_Paradigm)
 [^f2]: Nesta - [The Open Innovation Programme](https://www.nesta.org.uk/report/the-open-innovation-programme-blog-series/)
-[^f3]:  Exploring open innovation practicein ﬁrm-nonproﬁt engagements:a corporate social responsibilityperspective (https://www.academia.edu/22387365/Exploring_open_innovation_practice_in_firm_nonprofit_engagements_a_corporate_social_responsibility_perspective)
+[^f3]: [Exploring open innovation practice in ﬁrm-nonproﬁt engagements:a corporate social responsibility perspective] (https://www.academia.edu/22387365/Exploring_open_innovation_practice_in_firm_nonprofit_engagements_a_corporate_social_responsibility_perspective)
+[^f4]: Mintzberg - [Of Strategies Emergent And Deliberate](http://strategy.sjsu.edu/www.stable/B290/reading/Mintzberg,%20H,%201985,%20Strategic%20Management%20Journal.%206%20pp%20257-272.pdf)
