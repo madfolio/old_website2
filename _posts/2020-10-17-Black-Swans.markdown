@@ -9,7 +9,7 @@ tags: [strategy]
 
 A Black Swan is an event that no one predicted. It comes from the idea that if you only observe white swans. when someone asks you what colour swans are you say white. Similarly the weight of turkey increases daily, almost predictably; until it is Christmas. Taleb argues that a Black Swan cannot be predicted using the formal models, based on Gaussian methodologies, that have been used in the past.
 
-![A Black Swan](https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5db05452a210800006f03c9a%2F0x0.jpg)
+![A Black Swan](https://p1.pxfuel.com/preview/696/1005/170/waters-swan-lake-bird-nature-swim.jpg)
 
 Taleb finds so much randomness in the world that predicting the future in any meaningful way is almost impossible. However this randomness some times has little impact because the very acts of randomness cancels out other acts of randomness and therefore the situation becomes stable. He would call such a place medicrostan. This is just one of his scenarios.
 
