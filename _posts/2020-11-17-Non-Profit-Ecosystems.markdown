@@ -69,39 +69,24 @@ Specific projects with strong links may lead to creep and overlap between the pr
 
 Weak links with emergent may lead to innovation being lost. In this case a strong facilitator is needed that can document the processes on both sides. 
 
-## 
 
 ## Actions For Non Profit Ecosystem Development
-With these in mind it is clear that the ability to develop an eocsystem for a non profit organsation has the similiar advantages and  challenges as in business. The main difference is cultural differences between the players in the ecosystem. 
+With these in mind it is clear that the ability to develop an eocsystem for a non profit organsation has the similiar advantages and  challenges as in business. The main difference is cultural differences between the players in the ecosystem and the more intense scrutiny from funding organisations.  
 
-From this some recommendations can be made about how to establish an ecosystem aronud a non-profit:
+From this some recommendations can be made about how to establish an ecosystem around a non-profit:
 
 * Identify what mode the partner organisations are in using the table above and whether this is appropriate. 
 
-* Map functions where expertise is needed. 
+* Map functions where expertise is needed and onboard partners that are fit the emergent pattern and develop strong links.  
 
-* Make sure there is a budget for time money and space to innovate. 
+* Make sure there is a budget for time money and space to innovate; particularly by devloping the links across organisations. 
 
-* Set the ethos internally by asking for feedback and allowing others to fail. 
+* Set the ethos internally by asking for feedback and being accepting of failure. This includes careful stakeholder maangment of funding organisations. 
 
-* Work on the long term stuff. 
 
 ## Conclusion
 
-There are major similarities between the normal cirporate environment and the non-profit sector. The same trends apply and similar methods can be used. 
-. 
-
-
-
-## Notes 
-[^f1]: Chesbrough - [Open Innovation: Researching A New Paradigm](https://www.researchgate.net/publication/232957368_Open_Innovation_Researching_A_New_Paradigm)
-[^f2]: [Stanford Centre for Social Innovation](https://www.gsb.stanford.edu/faculty-research/centers-initiatives/csi)
-[^f3]: [How to be an Innovative NonProfit](https://youtu.be/9AHSgpH2Cfo)
-[^f4]: Nesta - [The Open Innovation Programme](https://www.nesta.org.uk/report/the-open-innovation-programme-blog-series/)
-[^f5]: HBR - [The Biggest Obstacles to Innovation in Large Companies ](https://hbr.org/2018/07/the-biggest-obstacles-to-innovation-in-large-companies)
-[^f6]: UNCHR - [Refugees bear cost of massive underfunding](https://www.unhcr.org/news/briefing/2018/10/5bbc57d94/refugees-bear-cost-massive-underfunding.html)
-[^f7]: [Exploring open innovation practice in ﬁrm-nonproﬁt engagements:a corporate social responsibility perspective](https://www.academia.edu/22387365/Exploring_open_innovation_practice_in_firm_nonprofit_engagements_a_corporate_social_responsibility_perspective)
-[^f8]: Mintzberg - [Of Strategies Emergent And Deliberate](http://strategy.sjsu.edu/www.stable/B290/reading/Mintzberg,%20H,%201985,%20Strategic%20Management%20Journal.%206%20pp%20257-272.pdf)
+There are major similarities between the normal corporate environment and the non-profit sector. The same trends apply and similar methods can be used.
 
 ## Additional Resources
 ### General
@@ -116,5 +101,17 @@ https://www.econstor.eu/bitstream/10419/176803/1/GLO-DP-0195.pdf
 
 ### Innovation Failure - Runabout Play Pump
 https://www.theguardian.com/commentisfree/2009/nov/24/africa-charity-water-pumps-roundabouts
+
+
+## Notes 
+[^f1]: Chesbrough - [Open Innovation: Researching A New Paradigm](https://www.researchgate.net/publication/232957368_Open_Innovation_Researching_A_New_Paradigm)
+[^f2]: [Stanford Centre for Social Innovation](https://www.gsb.stanford.edu/faculty-research/centers-initiatives/csi)
+[^f3]: [How to be an Innovative NonProfit](https://youtu.be/9AHSgpH2Cfo)
+[^f4]: Nesta - [The Open Innovation Programme](https://www.nesta.org.uk/report/the-open-innovation-programme-blog-series/)
+[^f5]: HBR - [The Biggest Obstacles to Innovation in Large Companies ](https://hbr.org/2018/07/the-biggest-obstacles-to-innovation-in-large-companies)
+[^f6]: UNCHR - [Refugees bear cost of massive underfunding](https://www.unhcr.org/news/briefing/2018/10/5bbc57d94/refugees-bear-cost-massive-underfunding.html)
+[^f7]: [Exploring open innovation practice in ﬁrm-nonproﬁt engagements:a corporate social responsibility perspective](https://www.academia.edu/22387365/Exploring_open_innovation_practice_in_firm_nonprofit_engagements_a_corporate_social_responsibility_perspective)
+[^f8]: Mintzberg - [Of Strategies Emergent And Deliberate](http://strategy.sjsu.edu/www.stable/B290/reading/Mintzberg,%20H,%201985,%20Strategic%20Management%20Journal.%206%20pp%20257-272.pdf)
+
 
 
