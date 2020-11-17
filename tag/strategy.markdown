@@ -1,5 +1,5 @@
 ---
 layout: tagpage
-tag: stratgey
+tag: strategy
 exclude: true
 ---
