@@ -112,6 +112,43 @@ There are major similarities between the normal cirporate environment and the no
 ## Temp
 https://www.econstor.eu/bitstream/10419/176803/1/GLO-DP-0195.pdf
 
+impact of aid:
+https://onlinelibrary.wiley.com/doi/pdf/10.1111/obes.12012
+https://www.fmreview.org/economies/schillings
+https://www.econstor.eu/bitstream/10419/176803/1/GLO-DP-0195.pdf
+
+
+
+Start up general model:
+1 market oportunity
+2 business model
+3 business evolution and growth
+
+main problem is that non profit jumps step 2
+
+
+Rounabout play pump
+https://www.theguardian.com/commentisfree/2009/nov/24/africa-charity-water-pumps-roundabouts
+
+High donar focus without focus on the end user. 
+
+The funding models used mean that the roadmap is set out without room for pivots. 
+
+Vanity metrics used. 
+
+
+
+
+Kiron Open higher education
+
+Laloux
+https://www.reinventingorganizations.com/
+
+Peter Green, agile for all
+https://agileforall.com/
+
+For exmaple 5-10% of resources available in the conservation non profit space. 
+
 
 ## Notes 
 [^f1]: Chesbrough, Henry & Vanhaverbeke, Wim & West, Joel. (2008). [Open Innovation: Researching A New Paradigm](https://www.researchgate.net/publication/232957368_Open_Innovation_Researching_A_New_Paradigm)
