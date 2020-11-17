@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: false
-title:  "Ecosystems In The Non-Profit Sector"
+title:  "Non Profit Ecosystems"
 date:   2020-11-17
 author: Liam Flood
 tags: [strategy, digital-transformation, ecosystems]
@@ -10,23 +10,21 @@ tags: [strategy, digital-transformation, ecosystems]
 
 ## Introduction
 
-There has been much written about open innovation and enablement of busines ecosystems. These have been led by Chesborough[^f1] in his analysis of Xerox, Kodak and others. The argument is that many of the previous household names of the industrial past are no longer with use because they kept to the concept of closed innovation. That is "if you want something doing right you had better do it yourself". 
+There has been much written about open innovation and enablement of business ecosystems. These have been led by Chesborough[^f1] in his analysis of Xerox, Kodak and others. The argument is that many of the household names of the industrial past are no longer with use because they kept to the concept of closed innovation. That is "if you want something doing right you had better do it yourself". 
 
-Innovation is not just about changing a product is about the business model and delivery model. 
+Chesborough argues that by opening the process of innovation organsations are able to draw on expertise from other areas to improve their product or service.
 
-Creating and executing new methods ideas and programs for making needed change. 
+But what is innovation? Innovation is not just about changing a product is can also be about the business model and delivery model. It is creating and executing new methods ideas and programs for making needed change. 
 
-Standford Social Innovation - A beak from practice that leads to positve social impact. https://www.gsb.stanford.edu/faculty-research/centers-initiatives/csi
-
-Charles Lee Innvation is just problem solving by removing pain or adding value. 
+And to put it in the context of the humanitarian non-profit the Standford Center for Social Innovation [^f2] defines it as "a break from practice that leads to positive social impact".  
 
 ## The Problem
 
-This lead us to the problem. Non profit leaders and practiioners tend not to think their organisations are innovative [^f8]. This is becasue there is no time or budget to innovate. Similar to the operational business environment there is such a high focus on the day to day. This leads to inefficeincy and a maybe value being lost. 
+This lead us to the problem. Non profit leaders and practitioners tend not to think their organisations are innovative [^f3]. This is becasue there is no time or budget to innovate. Similar to the operational business environment there is such a high focus on the day to day. This leads to inefficeincy and a maybe value being lost. 
 
 Can the non-pofit or charitable sector learn from the same examples?
 
-Nesta[^f2] points to a number of areas that are more unique ot the non-profit buiness model: 
+Nesta[^f4], an innovation foundation working on big challenges facing society, points to a number of areas that are common to the non-profit buiness model: 
 
 * Breaking down internal siloes
 * Focusing innovation investment on core business concerns such as increasing giving
@@ -35,21 +33,20 @@ Nesta[^f2] points to a number of areas that are more unique ot the non-profit bu
 
 These are common problems and not unique to a non-profit. 
 
-There are two lenses to consider:
-
-  The perspective of the non-profit
-  the perspective of the partners
+There are two lenses to consider: the perspective of the non-profit; the perspective of the partners
 
 ## The Non-Profit Perspective
 
-There is a need to do more with less. This is consistent with observations from accross industry. As the world bcomes more complex there is a need for more and more specialists. There becomes a point when it is impossible for organisition to have all that specialism in house and it has to be oursourced in some way. Open innovation is one way of outsourcing. 
+There is a need to do more with less. This is consistent with observations from across industry. As the world bcomes more complex there is a need for more and more specialists. There becomes a point when it is impossible for organisition to have all that specialism in house and it has to be oursourced in some way. Open innovation is one way of outsourcing. 
+
+Specifcally for aid to refugee the UNHCR reports that there was a funding gap in 2018 of 45% and this is likelyy to increase as "donor funding [falls] increasingly behind as the number of forcibly displaced worldwide has grown"[^f5]. 
 
 As referenced by Nesta this creates a number of issues within the organsation. 
 
 
 ## The Partner Perspective
 
-Holmes and Smart[^f3] examine this perspective and they find three key areas that define the success of a cooperation: 
+Holmes and Smart[^f6] examine this perspective and they find three key areas that define the success of a cooperation: 
 
 * associations between previous experience of corporate–NPO engagements, the ﬁrm’s stakeholder focus and the resulting innovation
 
@@ -63,9 +60,9 @@ Holmes and Smart[^f3] examine this perspective and they find three key areas tha
 
 Because this is written through the lens of how should a non-profit operate the implications are focused there. 
 
-Holmes and Smart[^f3] idenify two approached to innovation from the partners. They observed and emergent process and a more predetermined search with a specific focus in mind. 
+Holmes and Smart[^f6] idenify two approached to innovation from the partners. They observed and emergent process and a more predetermined search with a specific focus in mind. 
 
-For the emergent process, similar to emergent strategy as defined by Mintzberg [^f4], this is where partners continue to collborate enabling feedback loops to develop. An example of this is Norway is the Kongsberge technology hub or the statrt up scene in Oslo. 
+For the emergent process, similar to emergent strategy as defined by Mintzberg [^f7], this is where partners continue to collborate enabling feedback loops to develop. An example of this is Norway is the Kongsberge technology hub or the statrt up scene in Oslo. 
 
 Over time reliance on the expertise of others in the value configuration will and the encouragmnent of giving feedback will improve the product or serivce.
 
@@ -132,7 +129,9 @@ Nice example from https://youtu.be/psNQF7iWQ1M where they say that unless the ec
 
 ## Notes 
 [^f1]: Chesbrough, Henry & Vanhaverbeke, Wim & West, Joel. (2008). [Open Innovation: Researching A New Paradigm](https://www.researchgate.net/publication/232957368_Open_Innovation_Researching_A_New_Paradigm)
-[^f2]: Nesta - [The Open Innovation Programme](https://www.nesta.org.uk/report/the-open-innovation-programme-blog-series/)
-[^f3]: [Exploring open innovation practice in ﬁrm-nonproﬁt engagements:a corporate social responsibility perspective] (https://www.academia.edu/22387365/Exploring_open_innovation_practice_in_firm_nonprofit_engagements_a_corporate_social_responsibility_perspective)
-[^f4]: Mintzberg - [Of Strategies Emergent And Deliberate](http://strategy.sjsu.edu/www.stable/B290/reading/Mintzberg,%20H,%201985,%20Strategic%20Management%20Journal.%206%20pp%20257-272.pdf)
-[^f8]: [How to be an Innovative NonProfit](https://youtu.be/9AHSgpH2Cfo)
+[^f2]: [Stanford Centre for Social Innovation](https://www.gsb.stanford.edu/faculty-research/centers-initiatives/csi)
+[^f3]: [How to be an Innovative NonProfit](https://youtu.be/9AHSgpH2Cfo)
+[^f4]: Nesta - [The Open Innovation Programme](https://www.nesta.org.uk/report/the-open-innovation-programme-blog-series/)
+[^f5]: UNCHR - [Refugees bear cost of massive underfunding](https://www.unhcr.org/news/briefing/2018/10/5bbc57d94/refugees-bear-cost-massive-underfunding.html)
+[^f6]: [Exploring open innovation practice in ﬁrm-nonproﬁt engagements:a corporate social responsibility perspective](https://www.academia.edu/22387365/Exploring_open_innovation_practice_in_firm_nonprofit_engagements_a_corporate_social_responsibility_perspective)
+[^f7]: Mintzberg - [Of Strategies Emergent And Deliberate](http://strategy.sjsu.edu/www.stable/B290/reading/Mintzberg,%20H,%201985,%20Strategic%20Management%20Journal.%206%20pp%20257-272.pdf)
