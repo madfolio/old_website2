@@ -73,7 +73,6 @@ There needs to be a move away from centralisation. This is juxtaposed against a 
 With the specific process this may be more suited to shorter term projects or partners with a specific skill to contribute. 
 
 
-
 For boundary spanning roles the links between the organsations are important. 
 
 
@@ -81,6 +80,7 @@ This lead to a 2 by 2 grid that can show strategies for how to operate in each o
 
 Emergent / Specific
 Strong links / Weak links
+
 
 
 As noted above the 
@@ -102,29 +102,19 @@ A strong project lead will need to be in place.
 Weak links with emergent may lead to innovation being lost. 
 In this case a strong facilitator is needed that can document the processes on both sides. 
 
+## Actions
 
-Why would corporate partners be willing to have a long term relationship with a non profit? For ESG purposes? 
+Identify what mode the partner organisations are in using the table above and whether this is appropriate. 
+Map functions where expertise is needed. 
+Make sure there is a budget for time money and space to innovate. 
+Set the ethos internally by asking for feedback and allowing others to fail. 
+Work on the long term stuff. 
 
-Sustainability is key and helping to grow their own markets. 
+## Conclusion
 
+There are major similarities between the normal cirporate environment and the non-profit sector. The same trends apply and similar methods can be used. 
+. 
 
-
-Need to be working on the long term projects. What are they building for the future? Set a vision. 
-
-Be proactive rather than reactive. 
-
-A way to do this is to leverage the ecosystem to keep up and stay relevant. 
-
-Is there freedom to fail and is there empowerment to try something new and what happens if it doesnt work?
-
-Is there more process orientation, ie this is my role and I dont want to step on other peoples toes. 
-
-Is there a formal way to innovate? Creating an ecosytem environment can be the way to do this. But it needs to be not just at the high level it needs to be integrated with links. 
-
-Is there a budget for time, money and space to innovate. 
-
-
-Nice example from https://youtu.be/psNQF7iWQ1M where they say that unless the ecpsystem gets together there wont be neoigh resources to get to where they want to be. 
 
 
 ## Notes 
