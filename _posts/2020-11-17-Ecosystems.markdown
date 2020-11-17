@@ -1,7 +1,7 @@
 layout: post
 comments: false
 title:  "Ecosystems"
-date:   2020-11-12 11:26:32 +0100
+date:   2020-11-17
 author: Liam Flood
 tags: [strategy, digital-transformation, ecosytems]
 ---
