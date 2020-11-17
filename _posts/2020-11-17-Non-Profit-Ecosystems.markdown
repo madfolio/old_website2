@@ -4,7 +4,7 @@ comments: false
 title:  "Ecosystems In The Non-Profit Sector"
 date:   2020-11-17
 author: Liam Flood
-tags: [strategy, digital-transformation, ecosytems]
+tags: [strategy, digital-transformation, ecosystems]
 ---
 
 # Ecosystem Strategy For Non-Profit Organisations
@@ -35,12 +35,22 @@ There are two lenses to consider:
 
 ## The Non-Profit Perspective
 
+There is a need to do more with less. This is consistent with observations from accross industry. As the world bcomes more complex there is a need for more and more specialists. There becomes a point when it is impossible for organisition to have all that specialism in house and it has to be oursourced in some way. Open innovation is one way of outsourcing. 
+
+As referenced by Nesta this creates a number of issues within the organsation. 
+
 
 ## The Partner Perspective
 
-Holmes and Smart[^f3] examine this perspecitive
+Holmes and Smart[^f3] examine this perspective and they find three key areas that define the success of a cooperation: 
 
+* associations between previous experience of corporate–NPO engagements, the ﬁrm’s stakeholder focus and the resulting innovation
 
+* the function of engagement scope and scope development in shaping innovation outcomes
+
+* the role of the main corporate boundary spanner
+
+## Implications
 
 ## Notes 
 [^f1]: Chesbrough, Henry & Vanhaverbeke, Wim & West, Joel. (2008). [Open Innovation: Researching A New Paradigm](https://www.researchgate.net/publication/232957368_Open_Innovation_Researching_A_New_Paradigm)
