@@ -7,7 +7,6 @@ author: Liam Flood
 tags: [strategy, digital-transformation, ecosystems]
 ---
 
-# Ecosystem Strategy For Non-Profit Organisations
 
 ## Introduction
 
@@ -63,9 +62,36 @@ For the emergent process, similar to emergent strategy as defined by Mintzberg [
 With the specific process this may be more suited to shorter term projects or partners with a specific skill to contribute. 
 
 
-Two generic approaches to open innovation were witnessed: ﬁrstly, a more exploratory approach to dyadic engagement activities that resulted in an emergent innovation process; and secondly, a focused and pre-determined search activity to exploit the resources of the nonproﬁt partner that demonstrated a more planned innovation process. 
+For boundary spanning roles the links between the organsations are important. 
 
-Two distinct boundary-spanning roles were identiﬁed: in dyads exhibiting few organizational linkages, the role was associated with formal responsibilities from senior management to ‘manage’ innovation opportunities and outcomes. In dyads exhibiting high linkages, there was no such formality; the role was a ‘conduit’ to facilitate search and exploration to locate opportunities for innovation through idea exchange.
+
+This lead to a 2 by 2 grid that can show strategies for how to operate in each of therse scenarios:
+
+Emergent / Specific
+Strong links / Weak links
+
+
+As noted above the 
+
+Emergent and strong links is natural
+Partners working closely at multiple levels. 
+
+
+also 
+Speific and weak links. 
+Normal project management. 
+
+
+This is reflected in the business world. 
+
+Specific projects with strong links may lead to creep
+A strong project lead will need to be in place. 
+
+Weak links with emergent may lead to innovation being lost. 
+In this case a strong facilitator is needed that can document the processes on both sides. 
+
+
+
 
 
 ## Notes 
