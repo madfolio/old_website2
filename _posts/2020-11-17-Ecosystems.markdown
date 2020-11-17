@@ -18,4 +18,4 @@ There has been much written about open innovation and enablement of busines ecos
 
 
 ## Notes 
-[1]: Chesbrough, Henry & Vanhaverbeke, Wim & West, Joel. (2008). Open Innovation: Researching A New Paradigm. [https://www.researchgate.net/publication/232957368_Open_Innovation_Researching_A_New_Paradigm]
+[1]: Chesbrough, Henry & Vanhaverbeke, Wim & West, Joel. (2008). [Open Innovation: Researching A New Paradigm](https://www.researchgate.net/publication/232957368_Open_Innovation_Researching_A_New_Paradigm)
