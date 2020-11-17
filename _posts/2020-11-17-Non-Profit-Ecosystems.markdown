@@ -12,7 +12,7 @@ tags: [strategy, digital-transformation, ecosystems]
 
 There has been much written about open innovation and enablement of business ecosystems. These have been led by Chesborough[^f1] in his analysis of Xerox, Kodak and others. The argument he makes is that many of the household names of the industrial past are no longer with use because they kept to the concept of closed innovation. That is "if you want something doing right you had better do it yourself". 
 
-Chesborough argues that by opening the process of innovation, and involving third parties,organsations are able to draw on expertise from other areas to improve their product or service. Rather than the competitve advantage being inside of the organisation the competitive advantage comes from leveraging the network around the organisation. 
+Chesborough argues that by opening the process of innovation, and involving third parties, organisations are able to draw on expertise from other areas to improve their product or service. Rather than the competitve advantage being inside of the organisation the competitive advantage comes from leveraging the network around the organisation. 
 
 There is a misconcpetion with the digital transformation and innovation. Innovation is not just about changing a product is can also be about the business model and delivery model. It is creating and executing new methods ideas and programs for making needed change. And to put it in the context of the humanitarian non-profit or NGO, the Stanford Center for Social Innovation [^f2] defines it as "a break from practice that leads to positive social impact".  
 
