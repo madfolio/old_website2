@@ -21,10 +21,10 @@ This lead us to the problem. Can the non-pofit or charitable sector learn from t
 
 Nesta[^f2] points to a number of areas that are more unique ot the non-profit buiness model: 
 
-*Breaking down internal siloes
-*Focusing innovation investment on core business concerns such as increasing giving
-*Taking well managed risks and not being afraid to be seen to 'fail'
-*Developing a culture that embraces testing of 'imperfect' ideas as a way of developing ones that will work
+* Breaking down internal siloes
+* Focusing innovation investment on core business concerns such as increasing giving
+* Taking well managed risks and not being afraid to be seen to 'fail'
+* Developing a culture that embraces testing of 'imperfect' ideas as a way of developing ones that will work
 
 These are common problems and not unique to a non-profit. 
 
