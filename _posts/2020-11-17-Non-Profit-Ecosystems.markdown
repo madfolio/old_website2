@@ -22,7 +22,7 @@ Charles Lee Innvation is just problem solving by removing pain or adding value.
 
 ## The Problem
 
-This lead us to the problem. Non profit leaders and practiioners tend not to think their organisations are innovative. This is becasue there is no time or budget to innovate. Similar to the operational business environment there is such a high focus on the day to day. This leads to inefficeincy and a maybe value being lost. 
+This lead us to the problem. Non profit leaders and practiioners tend not to think their organisations are innovative [^f8]. This is becasue there is no time or budget to innovate. Similar to the operational business environment there is such a high focus on the day to day. This leads to inefficeincy and a maybe value being lost. 
 
 Can the non-pofit or charitable sector learn from the same examples?
 
@@ -69,7 +69,9 @@ For the emergent process, similar to emergent strategy as defined by Mintzberg [
 
 Over time reliance on the expertise of others in the value configuration will and the encouragmnent of giving feedback will improve the product or serivce.
 
- 
+Everyone has be given the authority to innovate. 
+
+There needs to be a move away from centralisation. This is juxtaposed against a need to be resposible for funding. Is there an ethical viewpoint here? Not really because it is the same as the responsibility towards shareholders. 
 
 With the specific process this may be more suited to shorter term projects or partners with a specific skill to contribute. 
 
@@ -116,3 +118,4 @@ Sustainability is key and helping to grow their own markets.
 [^f2]: Nesta - [The Open Innovation Programme](https://www.nesta.org.uk/report/the-open-innovation-programme-blog-series/)
 [^f3]: [Exploring open innovation practice in ﬁrm-nonproﬁt engagements:a corporate social responsibility perspective] (https://www.academia.edu/22387365/Exploring_open_innovation_practice_in_firm_nonprofit_engagements_a_corporate_social_responsibility_perspective)
 [^f4]: Mintzberg - [Of Strategies Emergent And Deliberate](http://strategy.sjsu.edu/www.stable/B290/reading/Mintzberg,%20H,%201985,%20Strategic%20Management%20Journal.%206%20pp%20257-272.pdf)
+[^f8]: [How to be an Innovative NonProfit](https://youtu.be/9AHSgpH2Cfo)
