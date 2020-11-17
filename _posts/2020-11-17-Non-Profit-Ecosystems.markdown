@@ -57,9 +57,14 @@ Because this is written through the lens of how should a non-profit operate the 
 
 Holmes and Smart[^f3] idenify two approached to innovation from the partners. They observed and emergent process and a more predetermined search with a specific focus in mind. 
 
-For the emergent process, similar to emergent strategy as defined by Mintzberg [^f4], 
+For the emergent process, similar to emergent strategy as defined by Mintzberg [^f4], this is where partners continue to collborate enabling feedback loops to develop. An example of this is Norway is the Kongsberge technology hub or the statrt up scene in Oslo. 
+
+Over time reliance on the expertise of others in the value configuration will and the encouragmnent of giving feedback will improve the product or serivce.
+
+ 
 
 With the specific process this may be more suited to shorter term projects or partners with a specific skill to contribute. 
+
 
 
 For boundary spanning roles the links between the organsations are important. 
@@ -90,6 +95,10 @@ A strong project lead will need to be in place.
 Weak links with emergent may lead to innovation being lost. 
 In this case a strong facilitator is needed that can document the processes on both sides. 
 
+
+Why would corporate partners be willing to have a long term relationship with a non profit? For ESG purposes? 
+
+Sustainability is key and helping to grow their own markets. 
 
 
 
