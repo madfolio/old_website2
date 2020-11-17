@@ -78,24 +78,10 @@ For boundary spanning roles the links between the organsations are important.
 
 This lead to a 2 by 2 grid that can show strategies for how to operate in each of therse scenarios:
 
-Emergent / Specific
-Strong links / Weak links
-
-|            |   Small |  Large | 
-|============|---------|--------|
-| Salami	 |    8.99 |  10.99 |
-| Hawaii	 |    9.49 |  11.49 |
-| Margherita |    7.99 |   9.99 |
-
-As noted above the 
-
-Emergent and strong links is natural
-Partners working closely at multiple levels. 
-
-
-also 
-Speific and weak links. 
-Normal project management. 
+|            |   Emergent |  Specifc | 
+| |||
+| Strong Links	 |    Partners working closely and fluidly at multiple levels.  |   |
+| Weak Links	 |     |  "Normal" project management  |
 
 
 This is reflected in the business world. 
