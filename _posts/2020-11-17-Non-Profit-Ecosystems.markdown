@@ -81,7 +81,11 @@ This lead to a 2 by 2 grid that can show strategies for how to operate in each o
 Emergent / Specific
 Strong links / Weak links
 
-
+|            |   Small |  Large | 
+|============|---------|--------|
+| Salami	 |    8.99 |  10.99 |
+| Hawaii	 |    9.49 |  11.49 |
+| Margherita |    7.99 |   9.99 |
 
 As noted above the 
 
@@ -105,9 +109,13 @@ In this case a strong facilitator is needed that can document the processes on b
 ## Actions
 
 Identify what mode the partner organisations are in using the table above and whether this is appropriate. 
+
 Map functions where expertise is needed. 
+
 Make sure there is a budget for time money and space to innovate. 
+
 Set the ethos internally by asking for feedback and allowing others to fail. 
+
 Work on the long term stuff. 
 
 ## Conclusion
