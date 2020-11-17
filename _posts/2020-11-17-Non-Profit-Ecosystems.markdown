@@ -12,11 +12,19 @@ tags: [strategy, digital-transformation, ecosystems]
 
 There has been much written about open innovation and enablement of busines ecosystems. These have been led by Chesborough[^f1] in his analysis of Xerox, Kodak and others. The argument is that many of the previous household names of the industrial past are no longer with use because they kept to the concept of closed innovation. That is "if you want something doing right you had better do it yourself". 
 
+Innovation is not just about changing a product is about the business model and delivery model. 
 
+Creating and executing new methods ideas and programs for making needed change. 
+
+Standford Social Innovation - A beak from practice that leads to positve social impact. https://www.gsb.stanford.edu/faculty-research/centers-initiatives/csi
+
+Charles Lee Innvation is just problem solving by removing pain or adding value. 
 
 ## The Problem
 
-This lead us to the problem. Can the non-pofit or charitable sector learn from the same examples?
+This lead us to the problem. Non profit leaders and practiioners tend not to think their organisations are innovative. This is becasue there is no time or budget to innovate. Similar to the operational business environment there is such a high focus on the day to day. This leads to inefficeincy and a maybe value being lost. 
+
+Can the non-pofit or charitable sector learn from the same examples?
 
 Nesta[^f2] points to a number of areas that are more unique ot the non-profit buiness model: 
 
