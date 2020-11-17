@@ -60,7 +60,7 @@ With the specific process this may be more suited to shorter term projects or pa
 
 This lead to a 2 by 2 grid that can show strategies for how to operate in each of therse scenarios:
 
-|            |   Emergent |  Specifc | 
+|            |   Emergent |  Specific | 
 | Strong Links	 |    Partners working closely and fluidly at multiple levels.  | Partners working on a number of projects simultaneously. |
 | Weak Links	 |  Partners working loosely, lacking formal cooperation.     |  "Normal" project management.  |
 
