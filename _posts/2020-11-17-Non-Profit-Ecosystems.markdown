@@ -10,7 +10,7 @@ tags: [strategy, digital-transformation, ecosystems]
 
 ## Introduction
 
-There has been much written about open innovation and enablement of business ecosystems. These have been led by Chesborough[^f1] in his analysis of Xerox, Kodak and others. The argument he makes is that many of the household names of the industrial past are no longer with use because they kept to the concept of closed innovation. That is "if you want something doing right you had better do it yourself". 
+There has been much written about open innovation and enablement of business ecosystems. These have been led by Chesborough[^f1] in his analysis of Xerox, Kodak and others. The argument he makes is that many of the household names of the industrial past are no longer with us because they kept to the concept of closed innovation. That is "if you want something doing right you had better do it yourself". 
 
 Chesborough argues that by opening the process of innovation, and involving third parties, organisations are able to draw on expertise from other areas to improve their product or service. Rather than the competitve advantage being inside of the organisation the competitive advantage comes from leveraging the network around the organisation. 
 
@@ -18,16 +18,16 @@ There is a misconcpetion with the digital transformation and innovation. Innovat
 
 ## The Problem
 
-This lead us to the problem. Non profit leaders and practitioners tend not to think their organisations are innovative [^f3]. This is becasue there is no time or budget to innovate. Similar to the operational business environment there is such a high focus on the day to day. This leads to inefficeincy and a maybe value being lost. This text aims to show that non-pofit sector can use the same examples. 
+This lead us to the problem. Non profit leaders and practitioners tend not to think their organisations are innovative [^f3]. This is because the time, space or budget to innovate is not prioritised. Similar to the operational business environment there is such a high focus on the day to day. This leads to long term inefficeincy and value to the user being lost. This text aims to show that non-pofit sector can use the same examples. 
 
-A great example of a leader in this field is Nesta[^f4], an innovation foundation working on big challenges facing societ. They point to a number of areas that are common to the non-profit buiness model that challenge the innovatiove process: 
+A great example of a leader in this field is Nesta[^f4], an innovation foundation working on big challenges facing society. They point to a number of areas that are common to the non-profit buiness model that challenge the innovative process: 
 
 * Breaking down internal siloes.
 * Focusing innovation investment on core business concerns such as increasing giving.
 * Taking well managed risks and not being afraid to be seen to 'fail'.
 * Developing a culture that embraces testing of 'imperfect' ideas as a way of developing ones that will work.
 
-These are common problems and not unique to a non-profit[^f5]. But there are two stakeholder lenses to consider which are different to operating in a normal business environment: the perspective of the non-profit; the perspective of the partners. 
+These are common problems and not unique to a non-profit[^f5]. But there are three stakeholder lenses to consider which are different to operating in a normal business environment: the perspective of the non-profit; the perspective of the partners. 
 
 ## Stakeholders
 
@@ -37,7 +37,7 @@ There is always need to do more with less. Specifcally for aid to refugee the UN
 
 This is consistent, however, with observations from across industry. As the world bcomes more complex there is a need for more and more specialists. There becomes a point when it is impossible for organisition to have all that specialism in house and it has to be oursourced in some way. Open innovation is one way of outsourcing. 
 
-### The Partner Perspective
+### The Commercial Partner Perspective
 
 Holmes and Smart[^f7] examine this perspective and they find three key areas that define the success of a cooperation: 
 
@@ -47,6 +47,9 @@ Holmes and Smart[^f7] examine this perspective and they find three key areas tha
 
 * the role of the main corporate boundary spanner. 
 
+### The Non-Profit Partner Perspective
+
+Here it is important to align the vision for a particular mission or project and not compete with one another for funding or giving opportunities. The partnerships should be complementatry. 
 
 ## Implications
 
@@ -81,12 +84,11 @@ From this some recommendations can be made about how to establish an ecosystem a
 
 * Make sure there is a budget for time money and space to innovate; particularly by devloping the links across organisations. 
 
-* Set the ethos internally by asking for feedback and being accepting of failure. This includes careful stakeholder maangment of funding organisations. 
+* Set the ethos internally by asking for feedback and being accepting of failure. This includes careful stakeholder managment of funding organisations to allow pivots in the way funding is utilised.
 
 
 ## Conclusion
-
-There are major similarities between the normal corporate environment and the non-profit sector. The same trends apply and similar methods can be used.
+This text has described the problem facing non-profit organisations. It has shown that there are major similarities between the corporate environment and the non-profit sector; the same trends apply. An increase in volatility, complexity, uncertainty and ambiguity is occuring right across the spectrum and therefore similar methods are appropriate. What is unique about the non profit sector is the fundin pattern limiting the abiliy to pivot once a project is in motion. While not exactly the same this is similar to the investor relationship of corporate organisations and must be managed carefully. 
 
 ## Additional Resources
 ### General
