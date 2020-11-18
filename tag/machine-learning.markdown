@@ -1,5 +1,5 @@
 ---
 layout: tagpage
-tag: strategy
+tag: machine-learning
 exclude: true
 ---

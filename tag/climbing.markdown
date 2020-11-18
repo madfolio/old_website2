@@ -1,5 +1,5 @@
 ---
 layout: tagpage
-tag: strategy
+tag: climbing
 exclude: true
 ---
