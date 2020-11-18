@@ -93,12 +93,16 @@ This text has described the problem facing non-profit organisations. It has show
 ## Additional Resources
 ### General
 [https://www.econstor.eu](https://www.econstor.eu/bitstream/10419/176803/1/GLO-DP-0195.pdf)
+
 [https://www.reinventingorganizations.com](https://www.reinventingorganizations.com)
+
 [https://agileforall.com/](https://agileforall.com/)
 
 ### Impact of aid:
 [The Long-Run Impact of Foreign Aid in 36 AfricanCountries: Insights from Multivariate Time SeriesAnalysis](https://onlinelibrary.wiley.com/doi/pdf/10.1111/obes.12012)
+
 [The macro-economic impacts of Syrian refugee aid](https://www.fmreview.org/economies/schillings)
+
 [The Effects of Foreign Aid on Refugee Flows](https://www.econstor.eu/bitstream/10419/176803/1/GLO-DP-0195.pdf)
 
 ### Innovation Case Studies
