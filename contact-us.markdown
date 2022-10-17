@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Contact Us
-permalink: /contact/
+title: Plugins
+permalink: /plugins/
 ---
 
 liam@ideators.no

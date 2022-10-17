@@ -18,21 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: ideators
-email: liam@ideators.no
+title: mad-folio minecraft
+email: mad-folio@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Creating value through design thinking.
-  
-  We know that to create value there has to be a laser focus on the end user of our products.
-  
-  We have worked with a number of small companies on their strategy and growth development.
- 
-  These have included film production companies, biotech, marine survey and others.
+  A minecraft server that is trying to be bleeding edge and breaking things. 
 
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://liamjflood.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: _ideators
-github_username: liamjflood
+url: "https://mad-folio.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+github_username: mad-folio
 
 # Build settings
 theme: minima
